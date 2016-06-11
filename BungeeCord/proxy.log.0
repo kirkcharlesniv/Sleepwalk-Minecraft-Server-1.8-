@@ -1,0 +1,1094 @@
+16:24:39 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:24:39 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:24:39 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+16:24:39 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:24:39 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:24:39 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:24:39 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:24:39 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:24:39 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:24:39 [INFO] Attempting to update plugin from null to ModuleVersion(build=1157, git=ec48077)
+16:24:39 [INFO] Attempting to Jenkins download module cmd_alert v1157
+16:24:40 [INFO] Download complete
+16:24:40 [INFO] Attempting to update plugin from null to ModuleVersion(build=1157, git=ec48077)
+16:24:40 [INFO] Attempting to Jenkins download module cmd_find v1157
+16:24:40 [INFO] Download complete
+16:24:40 [INFO] Attempting to update plugin from null to ModuleVersion(build=1157, git=ec48077)
+16:24:40 [INFO] Attempting to Jenkins download module cmd_list v1157
+16:24:41 [INFO] Download complete
+16:24:41 [INFO] Attempting to update plugin from null to ModuleVersion(build=1157, git=ec48077)
+16:24:41 [INFO] Attempting to Jenkins download module cmd_send v1157
+16:24:41 [INFO] Download complete
+16:24:41 [INFO] Attempting to update plugin from null to ModuleVersion(build=1157, git=ec48077)
+16:24:41 [INFO] Attempting to Jenkins download module cmd_server v1157
+16:24:41 [INFO] Download complete
+16:24:41 [INFO] Attempting to update plugin from null to ModuleVersion(build=1157, git=ec48077)
+16:24:41 [INFO] Attempting to Jenkins download module reconnect_yaml v1157
+16:24:41 [INFO] Download complete
+16:24:42 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [WARNING] Forced host server pvp is not defined
+16:24:42 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:24:42 [INFO] Listening on /0.0.0.0:25577
+16:26:20 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:26:20 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:26:20 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+16:26:20 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:26:20 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:26:20 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:26:20 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:26:20 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:26:20 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:26:20 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:20 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:20 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:20 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:20 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:20 [SEVERE] Exception in thread "main" 
+16:26:20 [SEVERE] while parsing a block mapping
+ in 'reader', line 16, column 3:
+      lobby:
+      ^
+expected <block end>, but found BlockMappingStart
+ in 'reader', line 20, column 4:
+       lobby:
+       ^
+
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:570)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:226)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:231)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+16:26:20 [SEVERE] 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:412)
+16:26:20 [SEVERE] 	at net.md_5.bungee.conf.YamlConfig.load(YamlConfig.java:63)
+16:26:20 [SEVERE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:64)
+16:26:20 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:259)
+16:26:20 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:55)
+16:26:20 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+16:26:32 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:26:32 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:26:32 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+16:26:32 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:26:32 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:26:32 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:26:32 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:26:32 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:26:32 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:26:32 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [WARNING] Forced host server pvp is not defined
+16:26:32 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:26:32 [INFO] Listening on /0.0.0.0:25577
+16:30:52 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:30:52 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:30:52 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+16:30:53 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:30:53 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:30:53 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:30:53 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:30:53 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:30:53 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:30:53 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [WARNING] Forced host server pvp is not defined
+16:30:53 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:30:53 [INFO] Listening on /0.0.0.0:25577
+16:34:32 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:34:32 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:34:32 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+16:34:33 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:34:33 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:34:33 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:34:33 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:34:33 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:34:33 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:34:33 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [WARNING] Forced host server pvp is not defined
+16:34:33 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:34:33 [INFO] Listening on /0.0.0.0:25577
+16:34:59 [INFO] Netty is not using direct IO buffers.
+16:34:59 [INFO] [kirkniv] <-> InitialHandler has connected
+16:35:00 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+16:35:00 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+16:35:06 [INFO] [/127.0.0.1:51655] <-> InitialHandler has connected
+16:35:07 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+16:35:07 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+16:36:02 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:36:02 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:36:02 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+16:36:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:36:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:36:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:36:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:36:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:36:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:36:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:36:03 [INFO] Listening on /0.0.0.0:25577
+16:36:25 [INFO] Netty is not using direct IO buffers.
+16:36:25 [INFO] [/127.0.0.1:51707] <-> InitialHandler has connected
+16:36:26 [INFO] [/127.0.0.1:51714] <-> InitialHandler has connected
+16:36:27 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+16:36:28 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+16:36:29 [INFO] [/127.0.0.1:51717] <-> InitialHandler has connected
+16:36:30 [INFO] [/127.0.0.1:51724] <-> InitialHandler has connected
+16:36:31 [INFO] [/127.0.0.1:51731] <-> InitialHandler has connected
+16:36:33 [INFO] [/127.0.0.1:51741] <-> InitialHandler has connected
+16:36:34 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+16:36:34 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+16:36:46 [INFO] [/127.0.0.1:51881] <-> InitialHandler has connected
+16:36:47 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+16:36:48 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+16:38:22 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:38:22 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:38:22 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+16:38:22 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:38:22 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:38:22 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:38:22 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:38:22 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:38:22 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:38:22 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [WARNING] Forced host server pvp is not defined
+16:38:22 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:38:22 [INFO] Listening on /0.0.0.0:25577
+16:38:48 [INFO] Netty is not using direct IO buffers.
+16:38:48 [INFO] [/127.0.0.1:52534] <-> InitialHandler has connected
+16:38:49 [INFO] [/127.0.0.1:52542] <-> InitialHandler has connected
+16:38:49 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+16:38:55 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+16:38:55 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+16:38:55 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+16:38:56 [INFO] [/127.0.0.1:52544] <-> InitialHandler has connected
+16:39:05 [INFO] [null] <-> InitialHandler has connected
+16:39:07 [INFO] [/127.0.0.1:52563] <-> InitialHandler has connected
+16:40:49 [INFO] [/127.0.0.1:52671] <-> InitialHandler has connected
+16:42:35 [INFO] [/127.0.0.1:52692] <-> InitialHandler has connected
+16:42:42 [INFO] [/127.0.0.1:52702] <-> InitialHandler has connected
+16:42:42 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+16:45:56 [WARNING] [kirkniv] <-> DownstreamBridge <-> [lobby] - IOException: An existing connection was forcibly closed by the remote host
+16:45:56 [INFO] [kirkniv] disconnected with: §fIOException : An existing connection was forcibly closed by the remote host @ sun.nio.ch.SocketDispatcher:-2
+16:45:56 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+16:45:56 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+16:45:57 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+16:46:54 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:46:54 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:46:54 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+16:46:54 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:46:54 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:46:54 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:46:54 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:46:54 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:46:54 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:46:54 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [WARNING] Forced host server pvp is not defined
+16:46:54 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+16:46:54 [INFO] Listening on /0.0.0.0:25577
+16:50:34 [INFO] Netty is not using direct IO buffers.
+16:50:34 [INFO] [/127.0.0.1:53246] <-> InitialHandler has connected
+16:50:34 [INFO] [kirkniv] <-> InitialHandler has connected
+16:50:34 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+16:50:34 [WARNING] [/127.0.0.1:53246] <-> InitialHandler - IOException: An established connection was aborted by the software in your host machine
+16:50:42 [INFO] [kirkniv] <-> ServerConnector [minigames] has connected
+16:50:43 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+17:07:42 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+17:07:42 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+17:07:42 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+17:07:43 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+17:07:43 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+17:07:43 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+17:07:43 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+17:07:43 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+17:07:43 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:07:43 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [WARNING] Forced host server pvp is not defined
+17:07:43 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:43 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+17:07:44 [INFO] Listening on /0.0.0.0:25577
+18:02:03 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+18:02:03 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+18:02:03 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+18:02:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+18:02:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+18:02:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+18:02:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+18:02:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+18:02:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:02:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [WARNING] Forced host server pvp is not defined
+18:02:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:03 [INFO] Listening on /0.0.0.0:25577
+18:02:36 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+18:02:36 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+18:02:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+18:02:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+18:02:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+18:02:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+18:02:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+18:02:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+18:02:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:02:37 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [WARNING] Forced host server pvp is not defined
+18:02:37 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:02:37 [INFO] Listening on /0.0.0.0:25577
+18:35:44 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+18:35:44 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+18:35:44 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+18:35:45 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+18:35:45 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+18:35:45 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+18:35:45 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+18:35:45 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+18:35:45 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:35:45 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [WARNING] Forced host server pvp is not defined
+18:35:45 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:45 [INFO] Listening on /0.0.0.0:25577
+18:35:51 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+18:35:51 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+18:35:51 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+18:35:51 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+18:35:51 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+18:35:51 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+18:35:51 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+18:35:51 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+18:35:51 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:35:51 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [WARNING] Forced host server pvp is not defined
+18:35:51 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:51 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+18:35:52 [INFO] Listening on /0.0.0.0:25577
+20:35:35 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+20:35:35 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+20:35:35 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+20:35:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:35:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:35:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:35:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:35:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:35:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:35:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [WARNING] Forced host server pvp is not defined
+20:35:37 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:35:37 [INFO] Listening on /0.0.0.0:25577
+20:36:32 [INFO] Netty is not using direct IO buffers.
+20:36:32 [INFO] [/127.0.0.1:58456] <-> InitialHandler has connected
+20:36:34 [INFO] [/127.0.0.1:58462] <-> InitialHandler has connected
+20:36:34 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+20:38:04 [INFO] [kirkniv] disconnected with: §fSorry but the Minigames had a problem right now! Please try again later!
+20:38:04 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+20:38:05 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+20:39:02 [INFO] [/127.0.0.1:58473] <-> InitialHandler has connected
+20:39:03 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+20:39:04 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+20:39:07 [INFO] [/127.0.0.1:58475] <-> InitialHandler has connected
+20:39:08 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+20:39:08 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+20:40:12 [INFO] [/127.0.0.1:58487] <-> InitialHandler has connected
+20:57:11 [INFO] [/127.0.0.1:58703] <-> InitialHandler has connected
+20:57:12 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+20:57:12 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+20:57:15 [INFO] [kirkniv] <-> InitialHandler has connected
+20:57:16 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+20:57:17 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+20:57:20 [INFO] [kirkniv] <-> InitialHandler has connected
+20:57:21 [INFO] [kirkniv] disconnected with: §cCould not connect to default or fallback server, please try again later: java.net.ConnectException
+20:57:22 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+21:01:59 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+21:01:59 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+21:01:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+21:01:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+21:01:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+21:01:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+21:01:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+21:01:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+21:01:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:01:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [WARNING] Forced host server pvp is not defined
+21:01:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:01:59 [INFO] Listening on /0.0.0.0:25577
+21:56:53 [INFO] Netty is not using direct IO buffers.
+21:56:53 [INFO] [/127.0.0.1:61378] <-> InitialHandler has connected
+21:56:53 [INFO] Netty is not using direct IO buffers.
+21:56:53 [INFO] [/127.0.0.1:61379] <-> InitialHandler has connected
+21:56:54 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+22:01:26 [INFO] [kirkniv] disconnected with: §fSorry but the Minigames had a problem right now! Please try again later!
+22:01:26 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+22:01:26 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+13:23:42 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+13:23:42 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+13:23:42 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+13:23:43 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:23:43 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:23:43 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:23:43 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:23:43 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:23:43 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:23:44 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+13:23:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [WARNING] Error enabling plugin BuildingGame_Addon
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:34)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:304)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:212)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:258)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:55)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:53)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 18 more
+13:23:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [WARNING] Forced host server pvp is not defined
+13:23:44 [INFO] [SocketAPI] Successfully started socket server on port 25575
+13:23:44 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+13:23:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:23:45 [INFO] Listening on /0.0.0.0:25577
+13:24:59 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+13:24:59 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+13:24:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+13:25:00 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:25:00 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:25:00 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:25:00 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:25:00 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:25:00 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:25:00 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+13:25:00 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [WARNING] Forced host server pvp is not defined
+13:25:00 [INFO] [SocketAPI] Successfully started socket server on port 25575
+13:25:00 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+13:25:00 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:25:00 [INFO] Listening on /0.0.0.0:25577
+13:30:07 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+13:30:07 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+13:30:07 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+13:30:07 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:30:07 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:30:07 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:30:07 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:30:07 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:30:07 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:30:07 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+13:30:07 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+13:30:07 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [WARNING] Forced host server pvp is not defined
+13:30:07 [INFO] [SocketAPI] Successfully started socket server on port 25575
+13:30:07 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+13:30:07 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+13:30:07 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+13:30:07 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:30:07 [INFO] Listening on /0.0.0.0:25577
+13:59:14 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+13:59:14 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+13:59:14 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+13:59:14 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:59:14 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:59:14 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:59:14 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:59:14 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:59:14 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:59:14 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+13:59:14 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:14 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+13:59:14 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:14 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:14 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:14 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:14 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:14 [WARNING] Forced host server pvp is not defined
+13:59:15 [INFO] [SocketAPI] Successfully started socket server on port 25575
+13:59:15 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+13:59:15 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:15 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+13:59:15 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+13:59:15 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:15 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:15 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:15 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:15 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+13:59:15 [INFO] Listening on /0.0.0.0:25577
+13:59:26 [INFO] §cCommand not found
+13:59:28 [INFO] §cCommand not found
+14:01:51 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+14:01:51 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+14:01:51 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+14:01:52 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:01:52 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:01:52 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:01:52 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:01:52 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:01:52 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:01:52 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+14:01:52 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+14:01:52 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [WARNING] Forced host server pvp is not defined
+14:01:52 [INFO] [SocketAPI] Successfully started socket server on port 25575
+14:01:52 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+14:01:52 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+14:01:52 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+14:01:52 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:01:52 [INFO] Listening on /0.0.0.0:25577
+14:10:43 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+14:10:43 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+14:10:43 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+14:10:44 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:10:44 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:10:44 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:10:44 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:10:44 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:10:44 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:10:44 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+14:10:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+14:10:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [WARNING] Forced host server pvp is not defined
+14:10:44 [INFO] [SocketAPI] Successfully started socket server on port 25575
+14:10:44 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+14:10:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+14:10:44 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+14:10:44 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:10:45 [INFO] Listening on /0.0.0.0:25577
+14:10:47 [INFO] Netty is not using direct IO buffers.
+14:10:47 [INFO] [/127.0.0.1:60516] <-> InitialHandler has connected
+14:10:52 [INFO] [/127.0.0.1:60526] <-> InitialHandler has connected
+14:10:53 [INFO] [kirkniv] disconnected with: §cSleepwalk - Could not connect to the lobby, please try again later: java.net.ConnectException
+14:10:53 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+14:12:31 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+14:12:31 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+14:12:31 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+14:12:31 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:12:31 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:12:31 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:12:31 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:12:31 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:12:31 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:12:32 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+14:12:32 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+14:12:32 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [WARNING] Forced host server pvp is not defined
+14:12:32 [INFO] [SocketAPI] Successfully started socket server on port 25575
+14:12:32 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+14:12:32 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+14:12:32 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+14:12:32 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:12:32 [INFO] Listening on /0.0.0.0:25577
+14:34:27 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+14:34:27 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+14:34:27 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+14:34:28 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:34:28 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:34:28 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:34:28 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:34:28 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:34:28 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:34:28 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+14:34:28 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+14:34:28 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [WARNING] Forced host server pvp is not defined
+14:34:28 [INFO] [SocketAPI] Successfully started socket server on port 25575
+14:34:28 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+14:34:28 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+14:34:28 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+14:34:28 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:28 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+14:34:29 [INFO] Listening on /0.0.0.0:25577
+14:34:31 [INFO] Netty is not using direct IO buffers.
+14:34:31 [INFO] [/127.0.0.1:62217] <-> InitialHandler has connected
+14:34:32 [INFO] [/127.0.0.1:62226] <-> InitialHandler has connected
+14:34:32 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+14:35:16 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+14:35:16 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+14:35:16 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+14:35:16 [INFO] [/127.0.0.1:62228] <-> InitialHandler has connected
+14:35:17 [INFO] [/127.0.0.1:62236] <-> InitialHandler has connected
+14:35:17 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+14:39:04 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+14:39:04 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+14:39:04 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+14:39:05 [INFO] [/127.0.0.1:62482] <-> InitialHandler has connected
+14:48:28 [INFO] [/127.0.0.1:62820] <-> InitialHandler has connected
+14:48:28 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+14:48:50 [INFO] [kirkniv] <-> ServerConnector [minigames] has connected
+14:48:54 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+14:49:36 [WARNING] [kirkniv] <-> DownstreamBridge <-> [minigames] - IOException: An existing connection was forcibly closed by the remote host
+14:49:36 [INFO] [kirkniv] <-> DownstreamBridge <-> [minigames] has disconnected
+14:49:36 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+15:02:17 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+15:02:17 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+15:02:17 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+15:02:18 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:02:18 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:02:18 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:02:18 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:02:18 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:02:18 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:02:18 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+15:02:18 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:18 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+15:02:18 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:18 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:18 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:18 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:18 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:18 [WARNING] Forced host server pvp is not defined
+15:02:19 [INFO] [SocketAPI] Successfully started socket server on port 25575
+15:02:19 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+15:02:19 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:19 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+15:02:19 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+15:02:19 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:19 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:19 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:19 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:19 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+15:02:19 [INFO] Listening on /0.0.0.0:25577
+15:02:49 [INFO] Netty is not using direct IO buffers.
+15:02:49 [INFO] [/127.0.0.1:63372] <-> InitialHandler has connected
+15:02:49 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+15:04:22 [INFO] [kirkniv] disconnected with: §fSorry but the Minigames had a problem right now! Please try again later!
+15:04:22 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+15:04:23 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+15:07:48 [INFO] [/127.0.0.1:63884] <-> InitialHandler has connected
+15:07:48 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+15:07:59 [INFO] [kirkniv] <-> ServerConnector [minigames] has connected
+15:08:00 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+15:31:12 [WARNING] [kirkniv] -> UpstreamBridge - read timed out
+15:31:14 [INFO] [kirkniv] disconnected with: §fReadTimeoutException : null
+15:31:15 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+15:31:16 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+15:31:16 [INFO] [kirkniv] <-> DownstreamBridge <-> [minigames] has disconnected
+15:32:18 [INFO] [/127.0.0.1:64718] <-> InitialHandler has connected
+15:32:18 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+20:29:34 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+20:29:34 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+20:29:34 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+20:29:35 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:29:35 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:29:35 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:29:35 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:29:35 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:29:35 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:29:36 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+20:29:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:36 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:29:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:36 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:36 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:36 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:36 [WARNING] Forced host server pvp is not defined
+20:29:37 [INFO] [SocketAPI] Successfully started socket server on port 25575
+20:29:37 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+20:29:37 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:37 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+20:29:37 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:29:37 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:37 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:37 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:37 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:37 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:29:37 [INFO] Listening on /0.0.0.0:25577
+20:36:03 [INFO] §cCommand not found
+20:36:04 [INFO] §cCommand not found
+20:36:05 [INFO] §cCommand not found
+20:36:06 [INFO] §cCommand not found
+20:36:07 [INFO] §cCommand not found
+20:36:09 [INFO] §cCommand not found
+20:36:27 [INFO] §cCommand not found
+20:36:28 [INFO] §cCommand not found
+20:36:33 [INFO] §cCommand not found
+20:47:28 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+20:47:28 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+20:47:28 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+20:47:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:47:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:47:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:47:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:47:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:47:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:47:30 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+20:47:31 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:31 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:47:31 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:31 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:31 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:31 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:31 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:31 [WARNING] Forced host server pvp is not defined
+20:47:32 [INFO] [SocketAPI] Successfully started socket server on port 25575
+20:47:32 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+20:47:32 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:32 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+20:47:32 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:47:32 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:32 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:32 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:32 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:32 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:33 [INFO] Listening on /0.0.0.0:25577
+20:47:59 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+20:47:59 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+20:47:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+20:47:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:47:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:47:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:47:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:47:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:47:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:47:59 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+20:47:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:59 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:47:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:59 [WARNING] Forced host server pvp is not defined
+20:47:59 [INFO] [SocketAPI] Successfully started socket server on port 25575
+20:47:59 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+20:47:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:47:59 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+20:47:59 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:48:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:48:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:48:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:48:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:48:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:48:00 [INFO] Listening on /0.0.0.0:25577
+20:49:49 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+20:49:49 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+20:49:49 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+20:49:49 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:49:49 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:49:49 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:49:49 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:49:49 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:49:49 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:49:49 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+20:49:49 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:49 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:49:49 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:49 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:49 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:49 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:49 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:49 [WARNING] Forced host server pvp is not defined
+20:49:50 [INFO] [SocketAPI] Successfully started socket server on port 25575
+20:49:50 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+20:49:50 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:50 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+20:49:50 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:49:50 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:50 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:50 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:50 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:50 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:49:50 [INFO] Listening on /0.0.0.0:25577
+20:53:29 [INFO] Netty is not using direct IO buffers.
+20:53:29 [INFO] [/127.0.0.1:60879] <-> InitialHandler has connected
+20:53:31 [INFO] [/127.0.0.1:60884] <-> InitialHandler has connected
+20:53:31 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+20:56:58 [INFO] [/54.166.120.232:33895] <-> InitialHandler has connected
+20:58:15 [WARNING] [kirkniv] <-> DownstreamBridge <-> [lobby] - IOException: An existing connection was forcibly closed by the remote host
+20:58:15 [INFO] [kirkniv] disconnected with: §fIOException : An existing connection was forcibly closed by the remote host @ sun.nio.ch.SocketDispatcher:-2
+20:58:15 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+20:58:15 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+20:58:15 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+20:59:03 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+20:59:03 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+20:59:03 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+20:59:04 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:59:04 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:59:04 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:59:04 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:59:04 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:59:04 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:59:04 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+20:59:04 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:04 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:59:04 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:04 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:04 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:04 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:04 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:04 [WARNING] Forced host server pvp is not defined
+20:59:05 [INFO] [SocketAPI] Successfully started socket server on port 25575
+20:59:05 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+20:59:05 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:05 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+20:59:05 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+20:59:05 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:05 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:05 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:05 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:05 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+20:59:05 [INFO] Listening on /0.0.0.0:25577
+20:59:24 [INFO] Netty is not using direct IO buffers.
+20:59:24 [INFO] [/127.0.0.1:62089] <-> InitialHandler has connected
+20:59:26 [INFO] [/127.0.0.1:62104] <-> InitialHandler has connected
+20:59:27 [INFO] [/127.0.0.1:62111] <-> InitialHandler has connected
+20:59:27 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+20:59:28 [INFO] [kirkniv] disconnected with: §cSleepwalk - Kicked whilst connecting to lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+20:59:28 [INFO] [kirkniv] <-> ServerConnector [lobby] has disconnected
+20:59:28 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+21:00:59 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+21:00:59 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+21:00:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+21:00:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+21:00:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+21:00:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+21:00:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+21:00:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+21:00:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:00:59 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+21:00:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+21:00:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [WARNING] Forced host server pvp is not defined
+21:00:59 [INFO] [SocketAPI] Successfully started socket server on port 25575
+21:00:59 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+21:00:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+21:00:59 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+21:00:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+21:00:59 [INFO] Listening on /0.0.0.0:25577
+21:01:39 [INFO] Netty is not using direct IO buffers.
+21:01:39 [INFO] [/127.0.0.1:62224] <-> InitialHandler has connected
+21:01:40 [INFO] [/127.0.0.1:62234] <-> InitialHandler has connected
+21:01:40 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+21:02:05 [INFO] [kirkniv] <-> ServerConnector [minigames] has connected
+21:02:06 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+21:02:47 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+21:02:47 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+21:02:47 [INFO] [kirkniv] <-> DownstreamBridge <-> [minigames] has disconnected
+21:02:47 [INFO] [/127.0.0.1:62407] <-> InitialHandler has connected
+21:03:28 [INFO] [/127.0.0.1:62422] <-> InitialHandler has connected
+21:03:28 [INFO] [kirkniv] <-> ServerConnector [minigames] has connected
+21:09:01 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+21:09:01 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+21:09:01 [INFO] [kirkniv] <-> DownstreamBridge <-> [minigames] has disconnected
+21:09:01 [INFO] [/127.0.0.1:62532] <-> InitialHandler has connected
+21:09:35 [INFO] [/127.0.0.1:62603] <-> InitialHandler has connected
+21:09:35 [INFO] [kirkniv] <-> ServerConnector [minigames] has connected
+21:09:41 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+21:09:41 [INFO] [kirkniv] <-> DownstreamBridge <-> [minigames] has disconnected
+21:10:52 [INFO] [kirkniv] <-> ServerConnector [minigames] has connected
+21:10:52 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+21:13:52 [INFO] [/54.166.120.232:46205] <-> InitialHandler has connected
+09:23:24 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+09:23:24 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+09:23:24 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+09:23:26 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+09:23:26 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+09:23:26 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+09:23:26 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+09:23:26 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+09:23:26 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:23:26 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+09:23:26 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:26 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+09:23:26 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:26 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:26 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:26 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:26 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:27 [WARNING] Forced host server pvp is not defined
+09:23:27 [INFO] [SocketAPI] Successfully started socket server on port 25575
+09:23:27 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+09:23:27 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:27 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+09:23:27 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+09:23:27 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:27 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:27 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:27 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:27 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:23:28 [INFO] Listening on /0.0.0.0:25577
+09:28:50 [INFO] Netty is not using direct IO buffers.
+09:28:50 [INFO] Netty is not using direct IO buffers.
+09:28:50 [INFO] [/127.0.0.1:52349] <-> InitialHandler has connected
+09:28:50 [INFO] [/127.0.0.1:52346] <-> InitialHandler has connected
+09:28:51 [WARNING] [/127.0.0.1:52346] <-> InitialHandler - IOException: An established connection was aborted by the software in your host machine
+09:28:52 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+09:37:28 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+09:37:28 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+09:37:28 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+09:37:29 [INFO] [/127.0.0.1:52407] <-> InitialHandler has connected
+09:37:30 [INFO] [/127.0.0.1:52417] <-> InitialHandler has connected
+09:53:29 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+09:53:29 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+09:53:29 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1157
+09:53:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+09:53:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+09:53:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+09:53:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+09:53:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+09:53:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:53:30 [INFO] Loaded plugin SocketAPI version 1.6.3 by Hazae41
+09:53:30 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Loaded plugin BuildingGame_BungeeCord version 2.3.1 by null
+09:53:30 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [WARNING] Forced host server pvp is not defined
+09:53:30 [INFO] [SocketAPI] Successfully started socket server on port 25575
+09:53:30 [INFO] Enabled plugin SocketAPI version 1.6.3 by Hazae41
+09:53:30 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] [BuildingGame_BungeeCord] BuildingGane - BungeeCord AddOn has been enabled
+09:53:30 [INFO] Enabled plugin BuildingGame_BungeeCord version 2.3.1 by null
+09:53:30 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:30 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1157 by SpigotMC
+09:53:31 [INFO] Listening on /0.0.0.0:25577
+09:55:37 [INFO] Netty is not using direct IO buffers.
+09:55:37 [INFO] [/127.0.0.1:54111] <-> InitialHandler has connected
+09:55:37 [INFO] [kirkniv] <-> ServerConnector [minigames] has connected
+09:55:55 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+09:55:55 [INFO] [kirkniv] <-> DownstreamBridge <-> [minigames] has disconnected
+09:56:01 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+09:56:01 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+09:56:01 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+09:56:01 [INFO] [/127.0.0.1:54170] <-> InitialHandler has connected
+10:02:00 [INFO] [/127.0.0.1:54217] <-> InitialHandler has connected
+10:02:00 [INFO] [kirkniv] <-> ServerConnector [lobby] has connected
+10:03:34 [INFO] [kirkniv] -> UpstreamBridge has disconnected
+10:03:35 [INFO] [kirkniv] disconnected with: §f[Proxy] Lost connection to server.
+10:03:35 [INFO] [kirkniv] <-> DownstreamBridge <-> [lobby] has disconnected
+10:03:35 [INFO] [/127.0.0.1:54629] <-> InitialHandler has connected
+10:07:37 [INFO] [/127.0.0.1:54750] <-> InitialHandler has connected
+10:12:49 [INFO] [/127.0.0.1:54838] <-> InitialHandler has connected
